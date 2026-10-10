@@ -1,0 +1,11 @@
+def make_discount(rate):
+    def apply(price):
+        return round(price * (1 - rate))
+    return apply
+
+sale = make_discount(0.2)
+sale(10000)
+sale.__closure__[0].cell_contents
+big = make_discount(0.5)
+big(10000)
+sale(10000)

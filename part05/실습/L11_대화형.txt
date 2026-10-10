@@ -1,0 +1,9 @@
+import random
+random.seed(7)
+random.randint(1, 6)
+random.choice(["김밥", "라면", "돈가스"])
+import datetime
+datetime.date(2026, 10, 8) + datetime.timedelta(days=100)
+from pathlib import Path
+Path("report.csv").suffix
+Path("data") / "2026" / "report.csv"

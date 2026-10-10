@@ -1,0 +1,5 @@
+count = 0
+100 / count
+count > 0 and 100 / count
+"" or "이름 없음"
+0 or 5

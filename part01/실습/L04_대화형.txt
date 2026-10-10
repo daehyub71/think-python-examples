@@ -1,0 +1,9 @@
+x = 10
+type(x)
+x = "열"
+type(x)
+a = 500
+b = a
+id(a) == id(b)
+a = 600
+b

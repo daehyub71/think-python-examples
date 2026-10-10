@@ -1,0 +1,4 @@
+import ast
+ast.dump(ast.parse("2 * 10", mode="eval").body)
+ast.dump(ast.parse("3 + 2 * 10", mode="eval").body)
+ast.unparse(ast.parse("total=price*3+fee"))

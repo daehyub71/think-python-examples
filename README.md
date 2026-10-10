@@ -1,0 +1,37 @@
+# 생각하는 파이썬 — 강의 예제 소스
+
+유튜브 「백발개발자의 바이브코딩」의 강의 **바이브코딩 기초 : 생각하는 파이썬 [문법편]**에 나오는 예제 코드와 「직접 해보기」 풀이입니다.
+로그인 없이 내려받아 그대로 실행해 볼 수 있습니다.
+
+- 책(무료 전자책): https://wikidocs.net/book/20360
+- 유튜브 채널: https://www.youtube.com/@50VibeLog
+
+## 폴더
+
+| 폴더 | 강의 | 영상 |
+|---|---|---|
+| [`part00`](part00) | Part 0 · 시작하기 전에 | [1편 생각하는 법](https://youtu.be/YI5_cP_p3u4) · [2편 설치와 첫 프로그램](https://youtu.be/LnZENdgPgbk) |
+| [`part01`](part01) | Part 1 · 가장 작은 조각들 | [1편 프로그램이란](https://youtu.be/BnQqFFS82-Q) · [2편 값과 변수](https://youtu.be/M2F7C7naxqk) · [3편 연산자](https://youtu.be/o9vKj2JjzzQ) · [4편 입력과 출력](https://youtu.be/ZLsXRLfgPhk) |
+| [`part02`](part02) | Part 2 · 파이썬은 어떻게 실행되는가 | 준비 중 |
+| [`part03`](part03) | Part 3 · 흐름을 다루기 | 준비 중 |
+| [`part04`](part04) | Part 4 · 데이터를 담는 그릇 — 자료구조 | 준비 중 |
+| [`part05`](part05) | Part 5 · 함수와 함수형 프로그래밍 | 준비 중 |
+| [`part06`](part06) | Part 6 · 객체로 세상을 모델링하기 — OOP | 준비 중 |
+
+각 폴더의 `README.md`에 파일별 설명이 있습니다.
+
+- 번호가 붙은 파일(`01_…py`)은 강의 슬라이드의 예제입니다.
+- `실습/` 폴더는 영상의 「실습」 화면에서 직접 실행해 보는 코드입니다. `.txt` 파일은 대화형 모드(`>>>`)에서 한 줄씩 쳐 보는 내용입니다.
+- `practice_answers.py`는 「직접 해보기」 풀이입니다. 먼저 직접 풀어 본 다음에 열어 보세요. (Part 0의 풀이는 `02_repl_practice.py`, `05_error_paren.py`에 들어 있습니다.)
+- ⚠️ 표시가 있는 파일은 **일부러 오류가 나게** 만든 것입니다. 오류 메시지의 마지막 줄부터 읽어 보세요.
+
+## 실행 방법
+
+파이썬 3.11 이상이 필요합니다. 이 저장소를 내려받은 뒤(초록색 `Code` 버튼 → `Download ZIP`), 해당 폴더에서 실행합니다.
+
+```
+python3 01_average.py        # macOS
+python 01_average.py         # Windows (안 되면 py 01_average.py)
+```
+
+코드와 출력은 실제로 실행해 확인한 것입니다. 버전에 따라 오류 메시지의 문구는 조금 다를 수 있습니다.

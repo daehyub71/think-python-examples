@@ -1,0 +1,6 @@
+word = "python"
+"th" in word
+"z" in word
+hour = 14
+9 <= hour < 18
+"영업 중" if 9 <= hour < 18 else "마감"

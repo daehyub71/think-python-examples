@@ -1,0 +1,8 @@
+age = 15
+age >= 14
+age >= 14 and age < 20
+age < 14 or age >= 65
+a = [1, 2]
+b = [1, 2]
+a == b
+a is b

@@ -1,0 +1,6 @@
+point = (37.5, 127.0)
+point[0]
+point[0] = 38
+lat, lng = point
+lng
+list(zip(["김밥", "라면"], [3500, 4500]))

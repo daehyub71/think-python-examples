@@ -1,0 +1,5 @@
+prices = [3000, 4500, 1200, 8000]
+[p for p in prices if p >= 4000]
+[p // 100 for p in prices]
+[f"{p:,}원" for p in prices]
+prices

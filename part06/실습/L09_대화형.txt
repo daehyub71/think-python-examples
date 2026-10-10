@@ -1,0 +1,20 @@
+class Color:
+    def __init__(self, r, g, b):
+        self.r = r
+        self.g = g
+        self.b = b
+
+c = Color(255, 128, 0)
+c.__dict__
+c.alpha = 0.5
+c.__dict__
+class SlimColor:
+    __slots__ = ("r", "g", "b")
+    def __init__(self, r, g, b):
+        self.r = r
+        self.g = g
+        self.b = b
+
+s = SlimColor(255, 128, 0)
+s.alpha = 0.5
+hasattr(s, "__dict__")

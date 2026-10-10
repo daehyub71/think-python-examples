@@ -1,0 +1,9 @@
+colors = ["빨강", "파랑", "빨강", "초록", "파랑"]
+len(colors)
+len(set(colors))
+a = {1, 2, 3, 4}
+b = {3, 4, 5}
+a & b
+a - b
+a | b
+3 in a

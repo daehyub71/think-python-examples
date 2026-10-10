@@ -1,0 +1,8 @@
+import sys
+box = ["a", "b"]
+sys.getrefcount(box)
+other = box
+third = box
+sys.getrefcount(box)
+del other
+sys.getrefcount(box)

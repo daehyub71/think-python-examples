@@ -1,0 +1,12 @@
+def join_all(*words):
+    return " + ".join(words)
+
+join_all("펜", "지우개", "자")
+words = ["가방", "노트북", "풀"]
+join_all(*words)
+def show(**info):
+    return info
+
+show(color="빨강", size=3)
+d = {"color": "파랑"}
+show(**d)
