@@ -14,7 +14,7 @@
 | [`part01`](part01) | Part 1 · 가장 작은 조각들 | [1편 프로그램이란](https://youtu.be/BnQqFFS82-Q) · [2편 값과 변수](https://youtu.be/M2F7C7naxqk) · [3편 연산자](https://youtu.be/o9vKj2JjzzQ) · [4편 입력과 출력](https://youtu.be/ZLsXRLfgPhk) |
 | [`part02`](part02) | Part 2 · 파이썬은 어떻게 실행되는가 | [1편 소스 코드가 실행되기까지](https://youtu.be/44N33MgXsQI) · [2편 바이트코드와 가상 머신](https://youtu.be/IJ0QJKcewBA) · [3편 메모리 모델](https://youtu.be/-RkAMCOM7x4) |
 | [`part03`](part03) | Part 3 · 흐름을 다루기 | [1편 조건문과 단락 평가](https://youtu.be/nwE4Ia6rLts) · [2편 반복문과 컴프리헨션](https://youtu.be/6_zO2-wUOa8) |
-| [`part04`](part04) | Part 4 · 데이터를 담는 그릇 — 자료구조 | 준비 중 |
+| [`part04`](part04) | Part 4 · 데이터를 담는 그릇 — 자료구조 | [1편 리스트 · 튜플 · 딕셔너리](https://youtu.be/5Km1Or9tXo4) · 2편 준비 중 |
 | [`part05`](part05) | Part 5 · 함수와 함수형 프로그래밍 | 준비 중 |
 | [`part06`](part06) | Part 6 · 객체로 세상을 모델링하기 — OOP | 준비 중 |
 | [`part07`](part07) | Part 7 · 함수를 확장하기 — 데코레이터와 클로저 | 준비 중 |
