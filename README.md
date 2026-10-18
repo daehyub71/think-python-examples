@@ -15,7 +15,7 @@
 | [`part02`](part02) | Part 2 · 파이썬은 어떻게 실행되는가 | [1편 소스 코드가 실행되기까지](https://youtu.be/44N33MgXsQI) · [2편 바이트코드와 가상 머신](https://youtu.be/IJ0QJKcewBA) · [3편 메모리 모델](https://youtu.be/-RkAMCOM7x4) |
 | [`part03`](part03) | Part 3 · 흐름을 다루기 | [1편 조건문과 단락 평가](https://youtu.be/nwE4Ia6rLts) · [2편 반복문과 컴프리헨션](https://youtu.be/6_zO2-wUOa8) |
 | [`part04`](part04) | Part 4 · 데이터를 담는 그릇 — 자료구조 | [1편 리스트 · 튜플 · 딕셔너리](https://youtu.be/5Km1Or9tXo4) · [2편 셋 · 문자열 · 고르는 법](https://youtu.be/YV5WUFENW6Y) |
-| [`part05`](part05) | Part 5 · 함수와 함수형 프로그래밍 | 준비 중 |
+| [`part05`](part05) | Part 5 · 함수와 함수형 프로그래밍 | [1편 함수의 기초와 인자](https://youtu.be/MkAFmykOHk0) · 2편 준비 중 |
 | [`part06`](part06) | Part 6 · 객체로 세상을 모델링하기 — OOP | 준비 중 |
 | [`part07`](part07) | Part 7 · 함수를 확장하기 — 데코레이터와 클로저 | 준비 중 |
 | [`part08`](part08) | Part 8 · 견고한 프로그램 — 예외와 파일 입출력 | 준비 중 |
